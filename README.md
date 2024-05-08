@@ -1,7 +1,10 @@
 <img align="right" alt="Coding" width="400" src="https://68.media.tumblr.com/60cff53ea7f8edde39035b21bb0cb158/tumblr_ollppr4qps1so18vqo1_540.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=checha-afg&label=Profile%20views&color=0e75b6&style=flat" alt="checha-afg" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left"> <a href="https://twitter.com/checha_afg" target="blank"><img src="https://img.shields.io/twitter/follow/checha_afg?logo=twitter&style=for-the-badge" alt="checha_afg" /></a> </p>
 
 - Email: **pschecha@gmail.com**
 
