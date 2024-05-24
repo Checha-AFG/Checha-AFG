@@ -15,7 +15,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=checha-afg&show_icons=true&theme=transparent&locale=es&layout=compact" alt="checha-afg" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=checha-afg&show_icons=true&theme=transparent&locale=es" alt="checha-afg" /></p>
-
-<h3 align="left">Otros:</h3>
-
-[![Mi Backloggery](https://backloggery.com/Checha_AFG/sig.gif)](https://backloggery.com/Checha_AFG)  
